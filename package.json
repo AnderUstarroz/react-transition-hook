@@ -1,6 +1,6 @@
 {
   "name": "react-transition-hook",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "types": "dist/types/index.d.ts",
@@ -16,7 +16,7 @@
     "hooks",
     "css",
     "animation",
-    "transition-hook",
+    "react-transition-hook",
     "use-transition",
     "react-transition-group"
   ],
