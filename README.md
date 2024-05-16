@@ -1,4 +1,4 @@
-<h1 align="center">☄️ transition-hook</h1>
+<h1 align="center">☄️ react-transition-hook</h1>
 
 <p align="center">
   <a href="https://github.com/iamyoki/transition-hook/actions/workflows/test.yml"><img src="https://github.com/iamyoki/transition-hook/actions/workflows/test.yml/badge.svg" alt="🧪 Run Tests"></a>
@@ -11,6 +11,7 @@
   </a>
 </p>
 
+<p align="center"> This is a Fork from <a href="https://github.com/iamyoki/transition-hook">Yoki Yu's transition-hook</a> project </p>
 <p align="center">An extremely light-weight<strong>(1kb)</strong> react transition animation hook which is simpler and easier to use than <a href="https://github.com/reactjs/react-transition-group" target="_blank">react-transition-group</a></p>
 <br>
 
@@ -78,13 +79,13 @@
 Install with yarn
 
 ```bash
-yarn add transition-hook
+yarn add react-transition-hook
 ```
 
 Or install with npm
 
 ```bash
-npm install transition-hook --save
+npm install react-transition-hook --save
 ```
 
 ## Usage

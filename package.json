@@ -1,6 +1,6 @@
 {
-  "name": "transition-hook",
-  "version": "1.5.2",
+  "name": "react-transition-hook",
+  "version": "0.0.1",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "types": "dist/types/index.d.ts",
@@ -35,8 +35,8 @@
     "semantic-release": "semantic-release"
   },
   "peerDependencies": {
-    "react": "^16.8.0  || ^17.0.0",
-    "react-dom": "^16.8.0  || ^17.0.0"
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^15.0.0",
@@ -44,7 +44,7 @@
     "@qhlab/eslint-plugin": "^1.10.0",
     "@semantic-release/changelog": "^6.0.1",
     "@semantic-release/git": "^10.0.1",
-    "@types/react": "^17.0.37",
+    "@types/react": "^18.3.2",
     "conventional-changelog-conventionalcommits": "^4.6.1",
     "eslint": "^8.4.1",
     "eslint-config-prettier": "^8.3.0",
@@ -61,6 +61,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/iamyoki/transition-hook.git"
+    "url": "https://github.com/AnderUstarroz/react-transition-hook"
   }
 }
